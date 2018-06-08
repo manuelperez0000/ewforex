@@ -1,0 +1,234 @@
+body{
+	font-family:helvetica;
+}
+a, b, p, h6, h5, h4, h3, h2, h1{
+	font-family: helvetica;
+	color:#ffffff;
+}
+.marg-top {padding-top:50px;}
+.cabecera{
+
+padding:40px;
+border-radius:3px;
+}/**/
+.navbar{
+	border:10px;
+	color:#ffffff;
+	-webkit-box-shadow: inset 65px 53px 127px -65px rgba(0,0,0,0.54);
+-moz-box-shadow: inset 65px 53px 127px -65px rgba(0,0,0,0.54);
+box-shadow: inset 65px 53px 127px -65px rgba(0,0,0,0.54);
+	background-color:#081E39;
+}
+.calculadora{
+	padding:10px;
+	border-radius:3px;
+}
+.transp{
+	background-color:rgba(0,0,0,0.6);
+	width:100%;
+	min-height:100%;
+}
+.logo{
+	background-color:rgba(150,150,150,0.3);
+	color:#000000;
+	border-radius:3px;
+	padding:15px;
+	
+}
+.slogan{
+	font-family: helvetica;
+}
+.bancos-pic{
+	width: 100%;
+}
+.soc-pic{
+		height: 100px;
+}
+#fotod{
+	width: 10%;
+	height: auto;
+}
+.nb{
+	float:left;
+	font-size:20px;
+	margin-left:10px;
+}
+.bancos{
+	/*background:red;*/
+	float: left;
+}
+.social{
+	
+}
+.soc-pic{
+	height:25px;
+}
+.descrip{
+	background:rgb(0,0,0,0.5);
+	padding:10px;
+	border-radius:3px;
+	
+}
+.bg-azul{
+	-webkit-box-shadow: inset 33px 54px 231px -12px rgba(0,0,0,0.36);
+-moz-box-shadow: inset 33px 54px 231px -12px rgba(0,0,0,0.36);
+box-shadow: inset 33px 54px 231px -12px rgba(0,0,0,0.36);
+	background-color:#081E39;
+}
+.nosotros-text{
+	text-align: justify;
+    text-justify: inter-word;
+}
+.txt-serv{
+	color:#4F4F4F;
+}
+.orden{
+	max-height:140px;
+	max-width:100%;
+}
+.pasos{
+	color:#fefefe;
+}
+.p1{
+	color:#55efc4;
+}
+.p2{
+	color:#0984e3;
+}
+.p3{
+	color:#fdcb6e;
+}
+.p4{
+	color:#ff7675;
+}
+.bg-pasos{
+  background-image: url("../img/fondodiv.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.transp-bk{
+	padding-top:100px;
+	padding-bottom:150px;
+	background-color:rgba(0,0,0,0.8);
+}
+.contacto-tit{
+	color:#38424D;
+}
+.cont-c{
+	color:#38424D;
+}
+.footer{
+	color:#FF0000;
+	padding:5px;
+	background:#0E151E;
+	text-align:center;
+}
+.txt-footer{
+	color:#424F5D;
+	font-family:verdana;
+}
+.bg-pasos{
+	background-image
+}
+
+/*      ************       Cambios       **************         */
+.bg-fond{
+	background-color:#2c3e50;
+}
+.bg-cambio{
+	text-align:left;
+	padding:30px;
+	/**/
+	background-image: url("../img/papercompress.jpg");
+	background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	/*background-color: rgba(250, 250, 250, 0.9);*/
+	border-radius:3px;
+	
+}
+.box-cambio{
+
+}
+.mod-log{
+	height:50px;
+}
+.valor{
+	color:#34495e;
+}
+.txt-cam{
+	color:#e74c3c;
+}
+.txt-pref{
+	color:#010101;
+	font-size:13px;
+}
+.nota{
+	color:red;
+}
+.txt-wrap{
+	color:#2980b9;
+}
+.txt-cambio{
+	color:#010101;
+}
+.txt-cambio2{
+	margin-top:10px;
+	background-color:#fefefe;
+	padding:10px;
+	border-radius:3px;
+	color:#666;
+}
+h2.txt-respuesta{
+	margin:0px;
+	padding:0px;
+	color:#e74c3c;
+}
+.top-mar{
+	margin-top:50px;
+}
+.cuentas{
+	color:#777;
+}
+.cont-dud{
+	color:#2980b9;
+	margin:0px;
+	padding:0px;
+}
+.col-dud{
+	color:#2980b9;
+	margin:0;
+}
+.collapse-dud{
+	color:#3498db;
+}
+.formulario{
+	background-color:#fff;
+	border-radius:3px;
+	padding:30px;
+	text-align:left;
+	color:#666;
+}
+.titulo{
+	color:#222;
+	font-size:22px;
+	text-align:center;
+}
+.pass_error{
+	border:1px solid red;
+}
+.link_oscuro{
+	color:#666;
+}
+.session{
+	
+	padding-right:20px;
+	background:#2c3e50;
+	text-align:right;
+	color:#fff;
+}

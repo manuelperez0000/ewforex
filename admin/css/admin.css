@@ -1,0 +1,25 @@
+thead{
+	font-size:18px;
+	color:#2980b9;
+	background:#ecf0f1;
+	border:1px solid #bdc3c7;
+}
+tbody{
+	border:1px solid #bdc3c7;
+}
+.camb-clave{
+	background:#ecf0f1;
+	border:1px solid #bdc3c7;
+	padding:10px;
+	margin:10px 0 20px 0;
+	border-radius:3px;
+}
+#tipo{ 
+	height:35px;margin:20px 0 20px 0;
+}
+.row{
+	margin-top:10px;
+}
+#logo-admin{
+	height:35px;
+}
